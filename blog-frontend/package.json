@@ -2,6 +2,10 @@
   "name": "blog-frontend",
   "version": "0.1.0",
   "private": true,
+  "engin": {
+    "npm": "6.4.1",
+    "node": "10.15.0"
+  },
   "dependencies": {
     "autoprefixer": "7.1.6",
     "axios": "^0.18.0",
